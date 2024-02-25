@@ -1,4 +1,4 @@
 # project-1
 Thi is my first git repository.
 <br>
-Author- Ritika Sah
+Author- Ritika Sah(Frontend Developer)
